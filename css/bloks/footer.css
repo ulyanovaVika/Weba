@@ -1,0 +1,173 @@
+.footer-title {
+  width: 1920px;
+  /* ТИ НЕ ОДИН */
+
+  position: absolute;
+  width: 238px;
+  height: 32px;
+  left: 90px;
+  top: 3094px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 32px;
+  /* identical to box height, or 100% */
+  letter-spacing: 0.08em;
+
+  color: #393939;
+}
+.footer-title-btn {
+  /* Frame 67 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 86px;
+  gap: 10px;
+
+  position: absolute;
+  height: 51px;
+  left: 1530px;
+  top: 3094px;
+
+  /* Main-blue */
+  background: #4169e1;
+  /* Btn-shadow */
+  box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+
+  /* ДОДАТИ ФОТО */
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  letter-spacing: 0.12em;
+
+  /* Main-white */
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.footer-text {
+  /* Cras ultricies mi eu turpis hendrfringilla. Vestibulum ante ipsum primis in faucibus. */
+
+  position: absolute;
+  width: 556px;
+  height: 66px;
+  left: 90px;
+  top: 3158px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.08em;
+
+  color: #656565;
+}
+.footer-img {
+  margin-left: 90px;
+  margin-top: 1023px;
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footer-sentence {
+  /* хочете стати волонтером? */
+
+  position: absolute;
+  height: 32px;
+  left: 675px;
+  top: 4254px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 32px;
+  /* identical to box height, or 100% */
+  text-align: center;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+
+  color: #393939;
+}
+.footer-sentence-text {
+  /* Cras ultricies mi eu turpis hendrfringilla. Vestibulum ante ipsum. Vestibulum ante ipsum primis in faucibus. */
+
+  position: absolute;
+  width: 828px;
+  height: 66px;
+  left: 534px;
+  top: 4322px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  letter-spacing: 0.08em;
+
+  color: #656565;
+}
+.footer-sentence-btn {
+  /* Frame 71 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 60px;
+  gap: 10px;
+
+  position: absolute;
+  height: 51px;
+  left: 810px;
+  top: 4440px;
+
+  /* Main-blue */
+  background: #4169e1;
+  /* Btn-shadow */
+  box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+
+  /* ЗАПОВНИТИ АНКЕТУ */
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  letter-spacing: 0.12em;
+
+  /* Main-white */
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}

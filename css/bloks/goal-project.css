@@ -1,0 +1,505 @@
+.goal-project {
+}
+.goal-project-header {
+}
+.goal-project-header-head {
+}
+.goal-project-title {
+  /* ГОЛОВНІ ЦІЛІ ПРОЄКТУ */
+
+  position: absolute;
+  width: 474px;
+  height: 31px;
+  left: 90px;
+  top: 1198px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+  letter-spacing: 0.08em;
+
+  /* Headline-grey */
+  color: #393939;
+}
+.goal-project-steps {
+}
+.step-history {
+}
+.step-history-logo {
+  /* Frame 72 */
+
+  margin-left: 90px;
+  position: absolute;
+  width: 92px;
+  height: 80.51px;
+  left: 90px;
+  top: 1301.88px;
+
+  /* Vector */
+
+  box-sizing: border-box;
+
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  border: 0.5px solid #ffffff;
+}
+.step-history-title {
+  /* ІСТОРІЇ */
+
+  position: absolute;
+  width: 80px;
+  height: 22px;
+  left: 217px;
+  top: 1307px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  letter-spacing: 0.08em;
+
+  color: #393939;
+}
+.step-history-text {
+  /* поширення історій людей про те, що вони пережили, як постраждали їхні регіони */
+
+  position: absolute;
+  width: 429px;
+  height: 50px;
+  left: 217px;
+  top: 1337px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.06em;
+
+  /* Text-grey */
+  color: #656565;
+}
+.step-my-history {
+}
+.my-history-title {
+  /* Я МАЮ ІСТОРІЮ */
+
+  position: absolute;
+  width: 232px;
+  height: 32px;
+  left: 152px;
+  top: 1585px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  letter-spacing: 0.08em;
+
+  color: #393939;
+}
+.my-history-content {
+  /* Cras ultricies mi eu turpis hendrfringilla. Vestibulum ante ipsum primis in faucibus orci. */
+
+  position: absolute;
+  width: 428px;
+  height: 99px;
+  left: 152px;
+  top: 1649px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.08em;
+
+  color: #656565;
+}
+.my-history-btn {
+  /* Frame 68 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 47px;
+  gap: 10px;
+
+  position: absolute;
+  height: 51px;
+  left: 152px;
+  top: 1780px;
+
+  /* Main-blue */
+  background: #4169e1;
+  /* Btn-shadow */
+  box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+
+  /* ПОДІЛИТИСЯ ІСТОРІЄЮ */
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  letter-spacing: 0.12em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.my-history-cover {
+  /* Rectangle 41 */
+
+  position: absolute;
+  width: 554px;
+  height: 379px;
+  left: 92px;
+  top: 1523px;
+
+  background: #ffffff;
+  box-shadow: 0px 24px 76px rgba(0, 0, 0, 0.06);
+  border-radius: 10px;
+}
+.step-help {
+}
+.my-help-cover {
+  /* Rectangle 38 */
+
+  position: absolute;
+  width: 556px;
+  height: 379px;
+  left: 682px;
+  top: 1523px;
+
+  background: #ffffff;
+  box-shadow: 0px 24px 52px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+}
+.step-help-logo {
+  /* Frame 73 */
+
+  margin-left: 682px;
+  position: absolute;
+  width: 92px;
+  height: 91.81px;
+  left: 682px;
+  top: 1292px;
+
+  /* Vector */
+
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  bottom: 0%;
+}
+.step-help-title {
+  /* ДОПОМОГА */
+
+  position: absolute;
+  width: 126px;
+  height: 22px;
+  left: 809px;
+  top: 1307px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  letter-spacing: 0.08em;
+
+  color: #393939;
+}
+.step-help-text {
+  /* взаємопідтримка як моральна, так і матеріальна */
+
+  position: absolute;
+  width: 429px;
+  height: 50px;
+  left: 809px;
+  top: 1337px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.06em;
+
+  color: #656565;
+}
+.step-my-help {
+}
+.my-help-title {
+  /* Я ХОЧУ ДОПОМОГТИ */
+
+  position: absolute;
+  width: 300px;
+  height: 32px;
+  left: 742px;
+  top: 1585px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  letter-spacing: 0.08em;
+
+  color: #393939;
+}
+.my-help-content {
+  /* Cras ultricies mi eu turpis hendrfringilla. Vestibulum ante ipsum primis in faucibus orci. */
+
+  position: absolute;
+  width: 428px;
+  height: 99px;
+  left: 742px;
+  top: 1649px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.08em;
+
+  color: #656565;
+}
+.my-help-btn {
+  /* Frame 69 */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 47px;
+  gap: 10px;
+
+  position: absolute;
+
+  left: 742px;
+  top: 1780px;
+
+  /* Main-blue */
+  border: 3px solid #4169e1;
+  border-radius: 50px;
+
+  /* ПОДІЛИТИСЯ ІСТОРІЄЮ */
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  letter-spacing: 0.12em;
+
+  /* Main-blue */
+  color: #4169e1;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.step-animals {
+}
+.my-animals-cover {
+  /* Rectangle 39 */
+
+  position: absolute;
+  width: 556px;
+  height: 379px;
+  left: 1274px;
+  top: 1523px;
+
+  background: #ffffff;
+  box-shadow: 0px 24px 52px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+}
+.step-animals-logo {
+  /* Frame 74 */
+
+  margin-top: 1292px;
+  margin-left: 1290px;
+  position: absolute;
+  width: 59.35px;
+  height: 95px;
+  left: 1290px;
+  top: 1292px;
+
+  /* Group 52 */
+
+  position: absolute;
+  width: 59.35px;
+  height: 95px;
+  left: 0px;
+  top: 0px;
+
+  /* Vector */
+
+  box-sizing: border-box;
+
+  position: absolute;
+  left: 36.74%;
+  right: 58.51%;
+  top: 12.98%;
+  bottom: 81.83%;
+
+  /* Vector */
+
+  box-sizing: border-box;
+
+  position: absolute;
+  left: 48.23%;
+  right: 37.3%;
+  top: 22.67%;
+  bottom: 68.74%;
+
+  /* Vector */
+
+  box-sizing: border-box;
+
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  /* Main-blue */
+}
+.step-animals-title {
+  /* ТВАРИНИ */
+
+  position: absolute;
+  width: 106px;
+  height: 22px;
+  left: 1401px;
+  top: 1307px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  letter-spacing: 0.08em;
+
+  color: #393939;
+}
+.step-animals-text {
+  /* допомога тваринам, які залишилися без господарів та страждають так само як і люди */
+
+  position: absolute;
+  width: 429px;
+  height: 50px;
+  left: 1401px;
+  top: 1337px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.06em;
+
+  color: #656565;
+}
+.step-my-animals {
+}
+.my-animals-title {
+  /* ОТРИМАТИ ДОПОМОГУ */
+
+  position: absolute;
+  width: 332px;
+  height: 32px;
+  left: 1334px;
+  top: 1585px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  letter-spacing: 0.08em;
+
+  color: #393939;
+}
+
+.my-animals-content {
+  /* Cras ultricies mi eu turpis hendrfringilla. Vestibulum ante ipsum primis in faucibus orci. */
+
+  position: absolute;
+  width: 428px;
+  height: 99px;
+  left: 1334px;
+  top: 1649px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.08em;
+
+  color: #656565;
+}
+.my-animals-btn {
+  /* Frame 70 */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 47px;
+  gap: 10px;
+
+  position: absolute;
+  left: 1334px;
+  top: 1780px;
+
+  /* Main-blue */
+  border: 3px solid #4169e1;
+  border-radius: 50px;
+
+  /* ПОДІЛИТИСЯ ІСТОРІЄЮ */
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  letter-spacing: 0.12em;
+
+  /* Main-blue */
+  color: #4169e1;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}

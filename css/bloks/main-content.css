@@ -1,0 +1,320 @@
+.content-title {
+  /* ІСТОРІЇ */
+
+  position: absolute;
+  width: 238px;
+  height: 32px;
+  left: 90px;
+  top: 2048px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 32px;
+  /* identical to box height, or 100% */
+  letter-spacing: 0.08em;
+
+  color: #393939;
+}
+.content-title-btn {
+  /* Frame 75 */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 74px;
+  gap: 10px;
+
+  position: absolute;
+  height: 51px;
+  left: 642px;
+  top: 2038px;
+
+  /* Main-blue */
+  background: #4169e1;
+  /* Btn-shadow */
+  box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.2);
+  border-radius: 50px;
+
+  /* ДОДАТИ ІСТОРІЮ */
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  letter-spacing: 0.12em;
+
+  /* Main-white */
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.text-title {
+  /* Утепление фасада */
+
+  position: absolute;
+  width: 264px;
+  height: 33px;
+  left: 91px;
+  top: 2244px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+  color: #393939;
+}
+.img-data-arrows_1 {
+  padding-top: 1101px;
+  padding-left: 703px;
+}
+.data {
+  /* 01/09 */
+
+  position: absolute;
+  width: 100px;
+  height: 48px;
+  left: 773px;
+  top: 2237px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.1em;
+
+  color: #393939;
+}
+.img-data-arrows_2 {
+  /* Group 72 */
+
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  left: 910px;
+  top: 2245px;
+}
+.text_1-content {
+  /* Утепление 2-х комнатной квартиры 100мм пенополистиролом. */
+
+  position: absolute;
+  width: 399px;
+  height: 60px;
+  left: 90px;
+  top: 2297px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* or 167% */
+  letter-spacing: 0.1em;
+
+  color: #393939;
+}
+
+.text_2-content {
+  /* Значимость этих проблем настолько очевидна, что начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации направлений прогрессивного. */
+
+  position: absolute;
+  width: 776px;
+  height: 86px;
+  left: 90px;
+  top: 2393px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* or 167% */
+  letter-spacing: 0.1em;
+
+  color: #393939;
+}
+.text_3-content {
+  /* Площадь: 14м2 */
+
+  position: absolute;
+  width: 162px;
+  height: 30px;
+  left: 90px;
+  top: 2515px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+  letter-spacing: 0.1em;
+
+  color: #393939;
+}
+.text_4-content {
+  /* Время работы: 8 рабочих дней */
+
+  position: absolute;
+  width: 346px;
+  height: 30px;
+  left: 90px;
+  top: 2559px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+  letter-spacing: 0.1em;
+
+  color: #393939;
+}
+.text_5-content {
+  /* Стоимость материалов: 16 000 украинских долларов */
+
+  position: absolute;
+  width: 592px;
+  height: 30px;
+  left: 90px;
+  top: 2603px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+  letter-spacing: 0.1em;
+
+  color: #393939;
+}
+.text_6-content {
+  /* Стоимость работы: 12 000 украинских долларов */
+
+  position: absolute;
+  width: 539px;
+  height: 30px;
+  left: 90px;
+  top: 2647px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+  letter-spacing: 0.1em;
+
+  color: #393939;
+}
+.content-footer-btn {
+  /* Frame 77 */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 47px;
+  gap: 10px;
+
+  position: absolute;
+  height: 51px;
+  left: 90px;
+  top: 2739px;
+
+  /* Main-blue */
+  border: 3px solid #4169e1;
+  border-radius: 50px;
+
+  /* ПЕРЕЙТИ НА ИСТОРИЮ */
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 19px;
+  /* identical to box height */
+  letter-spacing: 0.12em;
+
+  /* Main-blue */
+  color: #4169e1;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.img_1-content {
+  /* main-slide-6 1 */
+
+  position: absolute;
+  width: 850.96px;
+  height: 400px;
+  left: 978px;
+  top: 2038px;
+
+  background: url(main-slide-6.jpg);
+}
+.img_2-content {
+  /* main-slide-1 1 */
+
+  position: absolute;
+  width: 425.48px;
+  height: 260px;
+  left: 978px;
+  top: 2438px;
+
+  background: url(main-slide-1.jpg);
+}
+.img_3-content {
+  /* main-slide-2 1 */
+
+  position: absolute;
+  width: 426.52px;
+  height: 260px;
+  left: 1403.48px;
+  top: 2438px;
+
+  background: url(main-slide-2.jpg);
+}
+.img_4-content {
+  /* main-slide-4 1 */
+
+  position: absolute;
+  width: 425.48px;
+  height: 260px;
+  left: 978px;
+  top: 2698px;
+
+  background: url(main-slide-4.jpg);
+}
+.img_5-content {
+  /* main-slide-5 1 */
+
+  position: absolute;
+  width: 425.48px;
+  height: 260px;
+  left: 1403.48px;
+  top: 2698px;
+
+  background: url(main-slide-5.jpg);
+}
+.content-search {
+  margin-left: 1267px;
+  position: absolute;
+}

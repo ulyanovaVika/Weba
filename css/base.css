@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: #393939;
+}
+/* Utility */
+.none {
+  display: none !important;
+}
+.visually-hiden {
+  position: absolute;
+  opacity: 0;
+  visibility: hidden;
+  width: 0px;
+  height: 0px;
+  display: block;
+  margin-left: -10000px;
+  background: transparent;
+  font-size: 0;
+}
